@@ -1,0 +1,15 @@
+# Минимальные зависимости для AudioQA
+# Используйте этот файл если возникают проблемы с requirements.txt
+
+streamlit
+pandas
+numpy
+torch
+torchaudio
+pyannote.audio
+plotly
+openpyxl
+xlsxwriter
+matplotlib
+soundfile
+python-dotenv 
